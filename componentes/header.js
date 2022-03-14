@@ -8,13 +8,13 @@ function headerNav(el) {
           <label class="header__visible__logo-container__logo">MARIANO</label>
         </div>
         <div class="header__links">
-          <a class="header__links__link" href="https://github.com/MarianoAguilar13/dwf-desafio-m4/portfolio.html" target="_blank"
+          <a class="header__links__link" href="https://marianoaguilar13.github.io/dwf-desafio-m4/portfolio.html" target="_blank"
             >Portfolio</a
           >
-          <a class="header__links__link" href="https://github.com/MarianoAguilar13/dwf-desafio-m4/servicios.html" target="_blank"
+          <a class="header__links__link" href="https://marianoaguilar13.github.io/dwf-desafio-m4/servicios.html" target="_blank"
             >Servicios</a
           >
-          <a class="header__links__link" href="https://github.com/MarianoAguilar13/dwf-desafio-m4/contacto.html" target="_blank"
+          <a class="header__links__link" href="https://marianoaguilar13.github.io/dwf-desafio-m4/contacto.html" target="_blank"
             >Contacto</a
           >
         </div>
@@ -28,13 +28,13 @@ function headerNav(el) {
       </div>
       <div class="ventana-links">
         <button class="ventana-links__boton-cerrar">x</button>
-        <a class="ventana-links__link link-uno" href="https://github.com/MarianoAguilar13/dwf-desafio-m4/portfolio.html" target="_blank" "
+        <a class="ventana-links__link link-uno" href="https://marianoaguilar13.github.io/dwf-desafio-m4/portfolio.html" target="_blank" "
           >Portfolio</a
         >
-        <a class="ventana-links__link link-dos" href="https://github.com/MarianoAguilar13/dwf-desafio-m4/servicios.html" target="_blank" "
+        <a class="ventana-links__link link-dos" href="https://marianoaguilar13.github.io/dwf-desafio-m4/servicios.html" target="_blank" "
           >Servicios</a
         >
-        <a class="ventana-links__link link-tres" href="https://github.com/MarianoAguilar13/dwf-desafio-m4/contacto.html" target="_blank" "
+        <a class="ventana-links__link link-tres" href="https://marianoaguilar13.github.io/dwf-desafio-m4/contacto.html" target="_blank" "
           >Contacto</a
         >
       </div>

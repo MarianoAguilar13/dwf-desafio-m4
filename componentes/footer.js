@@ -14,7 +14,7 @@ function footer(el) {
           >
           <img
             class="footer__links__container__logo"
-            src="../imagenes/instagram.png"
+            src="./imagenes-footer/instagram.png"
             alt="Instagram"
           />
         </div>
@@ -27,7 +27,7 @@ function footer(el) {
           >
           <img
             class="footer__links__container__logo"
-            src="../imagenes/linkedin.png"
+            src="./imagenes-footer/linkedin.png"
             alt="Linkedin"
           />
         </div>
@@ -40,7 +40,7 @@ function footer(el) {
           >
           <img
             class="footer__links__container__logo"
-            src="../imagenes/github.png"
+            src="./imagenes-footer/github.png"
             alt="Github"
           />
         </div>
