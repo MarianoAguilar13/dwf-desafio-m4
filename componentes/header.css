@@ -49,6 +49,10 @@
   border-bottom: solid 3px white;
 }
 
+.header__links__link:visited {
+  color: white;
+}
+
 @media (max-width: 768px) {
   .header__links__link {
     display: none;
