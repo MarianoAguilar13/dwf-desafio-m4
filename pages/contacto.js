@@ -45,9 +45,14 @@ function main() {
           "/ su mensaje es: " +
           valores.msj,
       }),
-    }).catch((error) => {
-      console.log(error);
-    });
+    })
+      .then(() => {
+        document.querySelector(".contenedor-form__form").reset();
+        alert("El mensaje se envió correctamente!");
+      })
+      .catch((error) => {
+        console.log(error);
+      });
   });
 }
 

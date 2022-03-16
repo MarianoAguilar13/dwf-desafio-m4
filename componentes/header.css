@@ -20,6 +20,10 @@
   font-family: "Montserrat", sans-serif;
 }
 
+.header__visible__logo-container__logo:visited {
+  color: white;
+}
+
 @media (max-width: 768px) {
   .header__visible__logo-container__logo {
     font-size: 24px;
