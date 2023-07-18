@@ -14,9 +14,6 @@ function headerNav(el) {
           <a class="header__links__link" href="https://marianoaguilar13.github.io/dwf-desafio-m4/servicios.html" 
             >Servicios</a
           >
-          <a class="header__links__link" href="https://marianoaguilar13.github.io/dwf-desafio-m4/contacto.html" 
-            >Contacto</a
-          >
         </div>
         <div class="header__visible__boton-desplegar-container">
           <button class="header__visible__boton-desplegar">

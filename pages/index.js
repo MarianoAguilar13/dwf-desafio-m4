@@ -41,9 +41,10 @@ function main() {
   const containerHeaderEl = document.querySelector(".header-container");
   headerNav(containerHeaderEl);
 
+  /*
   const containerContactameEl = document.querySelector(".contactame");
   contactoForm(containerContactameEl);
-
+*/
   const containerFooterEl = document.querySelector(".footer-container");
   footer(containerFooterEl);
 
@@ -72,6 +73,7 @@ function main() {
     mostrarfront(data);
   });
 
+  /*
   const formEl = document.querySelector(".contenedor-form__form");
 
   formEl.addEventListener("submit", (evento) => {
@@ -102,6 +104,7 @@ function main() {
         console.log(error);
       });
   });
+  */
 }
 
 main();
