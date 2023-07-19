@@ -21,7 +21,7 @@ function footer(el) {
         <div class="footer__links__container">
           <a
             class="footer__links__container__link"
-            href="https://ar.linkedin.com"
+            href="https://www.linkedin.com/in/mariano-aguilar-a024b1240/"
             target="_blank"
             >Linkedin</a
           >
